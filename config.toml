@@ -770,13 +770,13 @@ uglyURLs = false
     displayPublishedDate = true
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = true
+    displayModifiedDate = false
     modifiedDateIcon = "calendar-check"
 
-    displayExpiredDate = true
+    displayExpiredDate = false
     expiredDateIcon = "calendar-times"
 
-    displayCategory = true
+    displayCategory = false
     categoryIcon = "folder"
     categoryDelimiter = "/"
 
