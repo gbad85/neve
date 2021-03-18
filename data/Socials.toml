@@ -1,0 +1,6 @@
+[[socials]]
+    id = "linkedin"
+    url = "https://linkedin.com/in/gbaddour"
+    icon = "linkedin"
+    title = "Linkedin"
+    weight = 3

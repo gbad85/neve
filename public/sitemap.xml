@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gbad85.github.io/neve/</loc>
+    <lastmod>2021-03-18T12:17:30-04:00</lastmod>
+  </url><url>
+    <loc>https://gbad85.github.io/neve/posts/</loc>
+    <lastmod>2021-03-18T12:17:30-04:00</lastmod>
+  </url><url>
+    <loc>https://gbad85.github.io/neve/tags/</loc>
+    <lastmod>2021-03-18T12:17:30-04:00</lastmod>
+  </url><url>
+    <loc>https://gbad85.github.io/neve/posts/test_post/</loc>
+    <lastmod>2021-03-18T12:17:30-04:00</lastmod>
+  </url><url>
+    <loc>https://gbad85.github.io/neve/tags/testing/</loc>
+    <lastmod>2021-03-18T12:17:30-04:00</lastmod>
+  </url><url>
+    <loc>https://gbad85.github.io/neve/about/</loc>
+    <lastmod>2021-03-18T11:51:54-04:00</lastmod>
+  </url>
+</urlset>
