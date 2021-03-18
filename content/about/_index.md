@@ -3,7 +3,7 @@ title: "About"
 date: 2021-03-18T11:50:09-04:00
 ---
 
-I'm **Ghaith Baddour** and I'm a Network Engineer with 5+ years experience. I'm Cisco certified **CCNP** Enterprise as well as SD-WAN Specialist (**ENSDWI**).
+I'm **Ghaith Baddour** and I'm a Network Engineer with 5+ years of experience. I'm Cisco certified **CCNP** Enterprise as well as SD-WAN Specialist (**ENSDWI**).
 
 I started this project in 17-March-2021 with the purpose of demonstrating my experience in Cisco and networking technologies using projects done in virtualization platforms: [EVE-NG](https://www.eve-ng.net/) and VMware.
 
