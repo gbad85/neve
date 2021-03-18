@@ -1,6 +1,6 @@
 # Network Engineer Virtual Experience
 
-I started this project in 17-March-2021 with the purpose of demonstrating my experienc in networking technologies using projects done using virtualization platforms: [EVE-NG](https://www.eve-ng.net/) and VMware.
+I started this project in 17-March-2021 with the purpose of demonstrating my experience in Cisco and networking technologies using projects done using virtualization platforms: [EVE-NG](https://www.eve-ng.net/) and VMware.
 
 ## Why?
 
