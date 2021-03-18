@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://gbad85.github.io/neve"
+baseURL = "https://gbad85.github.io/neve/"
 title = "Network Engineer Virtual Experience"
 languageCode = "en"
 hasCJKLanguage = false
@@ -9,6 +9,7 @@ hasCJKLanguage = false
 #copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
 publishDir = "docs"
+canonifyurls = true
 
 # Name of theme
 theme = "meme"

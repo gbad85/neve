@@ -9,7 +9,3 @@ This post for test purpose only.
 testing images
 
 ![image](/images/1.png)
-
-
-
-![image](/icons/apple-touch-icon.png)
