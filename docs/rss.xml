@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Network Engineer Virtual Experience</title>
+        <link>https://gbad85.github.io/neve/</link>
+        <description>This site demonstrate my experience in Cisco and Networking technologies using virtualization</description>
+        <generator>Hugo 0.81.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+        
+        
+        <lastBuildDate>Thu, 18 Mar 2021 20:17:19 -0400</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://gbad85.github.io/neve/rss.xml" />
+        
+        
+            <item>
+                <title>Test Post</title>
+                <link>https://gbad85.github.io/neve/posts/test_post/</link>
+                <guid isPermaLink="true">https://gbad85.github.io/neve/posts/test_post/</guid>
+                <pubDate>Thu, 18 Mar 2021 12:13:37 -0400</pubDate>
+                
+                
+                <description>This post for test purpose only.
+Repos Blog repo
+ https://github.com/gbad85/neve.git
+ commands to update repo 1 2 3 4  hugo -t &amp;lt;theme name&amp;gt; git add . git commit -m &amp;#34;some comment&amp;#34; git push origin master   Structure Posts posts |__ Main_tech |__ sub_tech.</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://gbad85.github.io/neve/tags/testing/">testing</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

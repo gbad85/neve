@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Network Engineer Virtual Experience</title>
+    <subtitle type="html">This site demonstrate my experience in Cisco and Networking technologies using virtualization</subtitle>
+    <updated>2021-03-18T20:17:19-04:00</updated>
+    <id>https://gbad85.github.io/neve/</id>
+    <link rel="alternate" type="text/html" href="https://gbad85.github.io/neve/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://gbad85.github.io/neve/atom.xml" />
+    <author>
+            <name>Ghaith Baddour</name>
+            <uri>https://gbad85.github.io/</uri>
+            </author>
+    
+    <generator uri="https://gohugo.io/" version="0.81.0">Hugo</generator>
+        <entry>
+            <title type="text">Test Post</title>
+            <link rel="alternate" type="text/html" href="https://gbad85.github.io/neve/posts/test_post/" />
+            <id>https://gbad85.github.io/neve/posts/test_post/</id>
+            <updated>2021-03-18T20:10:44-04:00</updated>
+            <published>2021-03-18T12:13:37-04:00</published>
+            <author>
+                    <name>Ghaith Baddour</name>
+                    <uri>https://gbad85.github.io/neve/</uri>
+                    </author>
+            <summary type="html">This post for test purpose only.
+Repos Blog repo
+ https://github.com/gbad85/neve.git
+ commands to update repo 1 2 3 4  hugo -t &amp;lt;theme name&amp;gt; git add . git commit -m &amp;#34;some comment&amp;#34; git push origin master   Structure Posts posts |__ Main_tech |__ sub_tech.</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://gbad85.github.io/neve/tags/testing/" term="testing" label="testing" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
